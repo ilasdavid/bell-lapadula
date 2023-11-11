@@ -1,0 +1,5 @@
+auto/ 2
+data 2
+file 0
+mobil 2
+vape.txt 2
